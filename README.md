@@ -12,5 +12,5 @@ Version 1.0
 3) Incluir un hotfix para modificar dicho titulo.
 
 Version 2.0
-3) Crear un archivo llamado archivo-2.md
+1) Crear un archivo llamado archivo-2.md
 2) En el archivo-2.md incluir un titulo en la linea 10.
